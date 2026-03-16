@@ -1,0 +1,7 @@
+*.class
+dist/
+build/
+nbproject/private/
+*.log
+*.zip
+*.rar
